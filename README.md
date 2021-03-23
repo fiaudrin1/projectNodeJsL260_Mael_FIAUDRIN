@@ -4,7 +4,7 @@
 
 #### Récupération du projet
 Saisissez dans un terminal la commande :
-`git clone https://git.unilim.fr/fiaudrin1/projectNodeJsL260_Mael_FIAUDRIN.git`
+`git clone https://github.com/fiaudrin1/projectNodeJsL260_Mael_FIAUDRIN.git`
 
 
 Puis entrez dans le dossier le projet téléchargé :
